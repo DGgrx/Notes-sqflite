@@ -1,16 +1,10 @@
-# notes_app_sqflite
+# Notes App
 
-A new Flutter project.
+A basic Notes app which creates a local SQL database for the user.
 
-## Getting Started
+## Preview
+<img src="https://github.com/DGgrx/Notes-sqflite/blob/master/preview.gif" height="400" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Uses SQFlite package to create a local database for storage.
+- CRUD operations on the database using raw SQL queries.
